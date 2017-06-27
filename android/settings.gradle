@@ -1,0 +1,3 @@
+rootProject.name = 'NativeCalendarModule'
+
+include ':app'
